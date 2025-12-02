@@ -84,5 +84,5 @@ A passionate software engineer focused on building reliable applications, clean 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=Tommymuia&style=for-the-badge&color=blue" />
 </p>
