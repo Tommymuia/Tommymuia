@@ -13,7 +13,6 @@
 # Tommy Muia
 ### SOFTWARE ENGINEER
 
- LOCATION  
  **Email:** muiathomas.mt@gmail.com  
  
 
